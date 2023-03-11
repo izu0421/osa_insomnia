@@ -10,12 +10,12 @@ Poor sleep is a major public health problem with implications for a wide range o
 
 ##### Resuts and detailed methods 
 
-Here, we investigated links between sleep apnoea and insomnia in a British population by combining self-reported questionnaires and causal inference. We found that 54.3% of the cohort had moderate insomnia, 9.4% had moderate sleep apnoea and 6.2% scored high for both conditions. Importantly, having a higher risk of sleep apnoea was associated with a higher insomnia burden and vice versa. The analysis for this section is [here](insomnia_sleepApnoea.html).
+Here, we investigated links between sleep apnoea and insomnia in a British population by combining self-reported questionnaires and causal inference. We found that 54.3% of the cohort had moderate insomnia, 9.4% had moderate sleep apnoea and 6.2% scored high for both conditions. Importantly, having a higher risk of sleep apnoea was associated with a higher insomnia burden and vice versa. The analysis for this section is [here](shc_new_analysis.html).
 
 
-To determine the causal directionality between sleep apnoea and insomnia, we used Mendelian randomisation and found evidence that sleep apnoea could cause insomnia, but not the reverse. The analysis for this section is [here](shc_new_analysis.html).
+To determine the causal directionality between sleep apnoea and insomnia, we used Mendelian randomisation and found evidence that sleep apnoea could cause insomnia, but not the reverse. The analysis for this section is [here](insomnia_sleepApnoea.html).
 
-To elucidate how both sleep apnoea and insomnia were linked to each other, we looked at behavioural markers of poor sleep. We found that feeling fatigued after sleeping and having noticeable sleep problems were linked to a higher burden of both sleep apnoea and insomnia. 
+To elucidate how both sleep apnoea and insomnia were linked to each other, we looked at behavioural markers of poor sleep. We found that feeling fatigued after sleeping and having noticeable sleep problems were linked to a higher burden of both sleep apnoea and insomnia. The analysis for this section is [here](shc_new_analysis.html).
 
 ##### Conclusions
 
