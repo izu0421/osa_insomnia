@@ -4,7 +4,7 @@
 
 #### *Submitted*
 
-A webpage of this work is available on: 
+A webpage of this work with details on the *in silico* workflow is available here: 
 
 https://izu0421.github.io/osa_insomnia/
 
