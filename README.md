@@ -2,7 +2,7 @@
 
 ### Author: Yizhou Yu
 
-#### *[Submitted](https://doi.org/10.3390/clockssleep5030036)*
+#### *[DOI](https://doi.org/10.3390/clockssleep5030036)*
 
 A webpage of this work with details on the *in silico* workflow is available here: 
 
